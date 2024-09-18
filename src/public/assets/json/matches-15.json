@@ -1,0 +1,70 @@
+[
+  {
+    "fixture": {
+      "id": 1301557,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-09-22T15:30:00+00:00",
+      "timestamp": 1727019000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Hazza Bin Zayed Stadium",
+        "city": "Al Ain"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 15,
+      "name": "FIFA Club World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/15.png",
+      "flag": null,
+      "season": 2024,
+      "round": "1st Round"
+    },
+    "teams": {
+      "home": {
+        "id": 2865,
+        "name": "Al Ain",
+        "logo": "https://media.api-sports.io/football/teams/2865.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2537,
+        "name": "Auckland City",
+        "logo": "https://media.api-sports.io/football/teams/2537.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

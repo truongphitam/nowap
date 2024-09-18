@@ -1,0 +1,42 @@
+[
+  {
+    "team": {
+      "id": 2537,
+      "name": "Auckland City",
+      "code": "AUC",
+      "country": "New-Zealand",
+      "founded": 2004,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2537.png"
+    },
+    "venue": {
+      "id": 1161,
+      "name": "Kiwitea Street",
+      "address": "Kiwitea Street, Sandringham",
+      "city": "Auckland",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1161.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2865,
+      "name": "Al Ain",
+      "code": "AIN",
+      "country": "United-Arab-Emirates",
+      "founded": 1968,
+      "national": false,
+      "logo": "https://media.api-sports.io/football/teams/2865.png"
+    },
+    "venue": {
+      "id": 1600,
+      "name": "Hazza Bin Zayed Stadium",
+      "address": "Hamdan Bin Mohammad Street",
+      "city": "Al Ain",
+      "capacity": 25174,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1600.png"
+    }
+  }
+]

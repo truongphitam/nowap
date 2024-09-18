@@ -1,0 +1,242 @@
+[
+    {
+      "team": {
+        "id": 1847,
+        "name": "Liverpool W",
+        "code": null,
+        "country": "England",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1847.png"
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "address": null,
+        "city": null,
+        "capacity": null,
+        "surface": null,
+        "image": null
+      }
+    },
+    {
+      "team": {
+        "id": 1850,
+        "name": "Arsenal W",
+        "code": null,
+        "country": "England",
+        "founded": 1987,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1850.png"
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "address": null,
+        "city": null,
+        "capacity": null,
+        "surface": null,
+        "image": null
+      }
+    },
+    {
+      "team": {
+        "id": 1853,
+        "name": "Chelsea W",
+        "code": null,
+        "country": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1853.png"
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "address": null,
+        "city": null,
+        "capacity": null,
+        "surface": null,
+        "image": null
+      }
+    },
+    {
+      "team": {
+        "id": 1854,
+        "name": "Manchester City W",
+        "code": null,
+        "country": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1854.png"
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "address": null,
+        "city": null,
+        "capacity": null,
+        "surface": null,
+        "image": null
+      }
+    },
+    {
+      "team": {
+        "id": 1855,
+        "name": "Everton W",
+        "code": null,
+        "country": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1855.png"
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "address": null,
+        "city": null,
+        "capacity": null,
+        "surface": null,
+        "image": null
+      }
+    },
+    {
+      "team": {
+        "id": 1856,
+        "name": "West Ham W",
+        "code": null,
+        "country": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1856.png"
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "address": null,
+        "city": null,
+        "capacity": null,
+        "surface": null,
+        "image": null
+      }
+    },
+    {
+      "team": {
+        "id": 1857,
+        "name": "Brighton W",
+        "code": null,
+        "country": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1857.png"
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "address": null,
+        "city": null,
+        "capacity": null,
+        "surface": null,
+        "image": null
+      }
+    },
+    {
+      "team": {
+        "id": 4898,
+        "name": "Manchester United W",
+        "code": null,
+        "country": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4898.png"
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "address": null,
+        "city": null,
+        "capacity": null,
+        "surface": null,
+        "image": null
+      }
+    },
+    {
+      "team": {
+        "id": 4899,
+        "name": "Tottenham Hotspur W",
+        "code": null,
+        "country": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4899.png"
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "address": null,
+        "city": null,
+        "capacity": null,
+        "surface": null,
+        "image": null
+      }
+    },
+    {
+      "team": {
+        "id": 14219,
+        "name": "Aston Villa W",
+        "code": null,
+        "country": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14219.png"
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "address": null,
+        "city": null,
+        "capacity": null,
+        "surface": null,
+        "image": null
+      }
+    },
+    {
+      "team": {
+        "id": 15404,
+        "name": "Leicester City WFC",
+        "code": null,
+        "country": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15404.png"
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "address": null,
+        "city": null,
+        "capacity": null,
+        "surface": null,
+        "image": null
+      }
+    },
+    {
+      "team": {
+        "id": 15409,
+        "name": "Crystal Palace W",
+        "code": null,
+        "country": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15409.png"
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "address": null,
+        "city": null,
+        "capacity": null,
+        "surface": null,
+        "image": null
+      }
+    }
+  ]
