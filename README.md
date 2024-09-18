@@ -22,5 +22,6 @@ https://www.docker.com/
 - Setup for laravel
     - Generate key: php artisan key:generate
     - Install vender: composer install
+    - Run migration: php artisan migrate
     - Run seeder: php artisan db:seed
 - Access browser http://localhost:${APP_PORT}
